@@ -9,7 +9,8 @@ It can be done with Docker or Homebrew
 ## Export files and navigate to the folder to launch fluree
 ```./fluree_start.sh```
 
-and navigate to http://localhost:8090/ or else you can use Docker GUI application to start your fluree ledger.
+and navigate to http://localhost:8090/ or else you can use Docker GUI application to start your fluree ledger. 
+
 
 ### Creation of a Ledger
   ```test/myledger```
